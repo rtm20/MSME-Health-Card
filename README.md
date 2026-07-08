@@ -10,8 +10,8 @@ improvements, and emits an **OCEN/ULI-ready** payload — so banks can safely
 onboard **credit-invisible (New-to-Credit / New-to-Bank) MSMEs** and improve
 portfolio quality.
 
-> Live demo: _add your Streamlit Cloud URL here after deploying_
-> Repo: _add your GitHub URL here_
+> **Live demo:** https://rtm20-msme-health-card-app-ar3kpv.streamlit.app/
+> **Repo:** https://github.com/rtm20/MSME-Health-Card
 
 ---
 
